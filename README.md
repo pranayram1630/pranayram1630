@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayram1630&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='[https://api.imgflip.com/get_memes](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/695/565/datas/original.png)' style="height: 400px;"/>
+<img src='https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/695/565/datas/original.png' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
